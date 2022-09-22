@@ -1,0 +1,56 @@
+<div class="container text-center my-5">
+        <h1 class="font-weight-light">My <span class="text-info">Blogs</span></h1>
+        <div class="lead">I share my views on technologies in these blogs</div>
+        <div class="row my-5 pt-3">
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+                    <img class="card-img-top" src="https://wallpapercave.com/wp/wp7250087.jpg" alt="java">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            JAVA
+                        </h4>
+                        <p class="card-text">This is my blog about Java</p>
+                        <a href="C:\Users\Muskan\Documents\JAVA LANGUAGE.docx" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+                    <img class="card-img-top"
+                        src="https://qph.fs.quoracdn.net/main-qimg-bdfa835b90751e141c98005063a96cb7-c" alt="C++">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            C++
+                        </h4>
+                        <p class="card-text">This is my blog about C++</p>
+                        <a href="C:\Users\Muskan\Documents\C++ LANGUAGE.docx" class="stretched-link"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4 my-2">
+                <div class="card shadow h-100">
+                    <img class="card-img-top"
+                        src="https://tse2.mm.bing.net/th?id=OIP.0D9zGIQXQEIZFYD9tpRXgQHaD1&pid=Api&P=0&w=316&h=164"
+                        alt="C">
+                    <div class="card-body">
+                        <h4 class="card-title">
+
+                            C
+                        </h4>
+                        <p class="card-text">This is my blog about C</p>
+                        <a href="C:\Users\Muskan\Documents\C-LANGUAGE.docx" class="stretched-link"></a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="my-5">
+            <a href="C:\Users\Muskan\shagun.html\blog.html" class="text-dark text-right">
+                <h5>
+                    see my blogs
+                    <i class="fas fa-arrow-right align-middle"></i>
+                </h5>
+            </a>
+        </div>
+    </div>
+
